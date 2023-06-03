@@ -1,0 +1,6 @@
+name: LampActivator
+version: '${project.version}'
+main: me.rixve.lampactivator.LampActivator
+api-version: 1.19
+authors: [ rixVe ]
+description: activates redstone laps when right clicked
